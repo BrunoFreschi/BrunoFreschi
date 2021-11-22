@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-
 <br>
 
-
+Imagination is more important than knowledge.
 <!--
 **BrunoFreschi/BrunoFreschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
