@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 
 ***
 
-**Albert Einstein**
->Imagination 
->is more important 
->than knowledge.
+>'Se a única ferramenta que você conhece é um martelo, todo problema é visto como um prego.'
 
 
 &#127769;
