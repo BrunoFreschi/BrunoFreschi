@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <h3 align="center">Estamos trabalhando nisso! </h1>
 <h3 align="center">Até breve.</h3>
-
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BrunoFreschi&title=Commit,Followers,Stars&theme=onedark&row=1&column=3&no-bg=true&margin-w=15&no-frame=true" alt="BrunoFreschi"/></a>
   <br>
 </p>
-
+-->
 
 
 <h5 align="right">'Se a única ferramenta que você conhece é um martelo, todo problema é visto como um prego.'</h5>
