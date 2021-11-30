@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>Até breve.</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VanAntonietti&title=Commit,Followers,Stars&theme=onedark&row=1&column=3&no-bg=true&margin-w=15&no-frame=true" alt="BrunoFreschi" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=BrunoFreschi&title=Commit,Followers,Stars&theme=onedark&row=1&column=3&no-bg=true&margin-w=15&no-frame=true" alt="BrunoFreschi" /></a>
   <br>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanAntonietti&theme=dracula&hide_border=true" alt="VanAntonietti" /></a>
