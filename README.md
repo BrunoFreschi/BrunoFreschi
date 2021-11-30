@@ -10,20 +10,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">👋 Hello!</h3>
 
-<h1> We are working on it! </h1>
-<h3>Coming soon</h3>
+<h3 align="center">We are working on it! </h1>
+<h3 align="center">Coming soon</h3>
 
-<h1> Estamos trabalhando nisso! </h1>
-<h3>Até breve.</h3>
+<h3 align="center">Estamos trabalhando nisso! </h1>
+<h3 align="center">Até breve.</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BrunoFreschi&title=Commit,Followers,Stars&theme=onedark&row=1&column=3&no-bg=true&margin-w=15&no-frame=true" alt="BrunoFreschi"/></a>
   <br>
 </p>
 
-😉
+
 >'Se a única ferramenta que você conhece é um martelo, todo problema é visto como um prego.'
 
 
-&#127769;
+<h5 align="right">&#127769;</h5>
