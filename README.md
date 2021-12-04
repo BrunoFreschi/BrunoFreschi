@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 -->
 
 
-<h5 align="right">'Se a única ferramenta que você conhece é um martelo, todo problema é visto como um prego.'</h5>
+<h5 align="left">'Se a única ferramenta que você conhece é um martelo, todo problema é visto como um prego.'</h5>
 <h5 align="right">&#127769;</h5>
