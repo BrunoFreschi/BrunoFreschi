@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">👋 Hello!</h3>
 
-<h3 align="right">We are working on it! </h1>
-<h3 align="right">Coming soon</h3>
+<h3 align="left">We are working on it! </h1>
+<h3 align="left">Coming soon</h3>
 
-<h3 align="right">Estamos trabalhando nisso! </h1>
-<h3 align="right">Até breve.</h3>
+<h3 align="left">Estamos trabalhando nisso! </h1>
+<h3 align="left">Até breve.</h3>
 <!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BrunoFreschi&title=Commit,Followers,Stars&theme=onedark&row=1&column=3&no-bg=true&margin-w=15&no-frame=true" alt="BrunoFreschi"/></a>
