@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h3 align="right">We are working on it! </h1>
 <h3 align="right">Coming soon</h3>
 
-<h3 align="center">Estamos trabalhando nisso! </h1>
+<h3 align="right">Estamos trabalhando nisso! </h1>
 <h3 align="right">Até breve.</h3>
 <!--
 <p align="center">
