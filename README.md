@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="right">👋 Hello!</h3>
+<h3 align="left">👋 Hello!</h3>
 
 <h3 align="right">We are working on it! </h1>
 <h3 align="right">Coming soon</h3>
