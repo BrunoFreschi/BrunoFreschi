@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Data Structure, Logic and C#..
 - 🤔 I’m looking for help with ... Contents for study REGEX...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...[Bruno-Twitter](https://twitter.com/Brun0Freschi)
+- 📫 How to reach me: ...[Twitter](https://twitter.com/Brun0Freschi)
 
 
 <h5 align="left">'Se a única ferramenta que você conhece é um martelo, todo problema é visto como um prego.'</h5>
