@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...[Twitter](https://twitter.com/Brun0Freschi), [Git](https://github.com/BrunoFreschi), [Linkdin](https://www.linkedin.com/in/bruno-dos-santos-freschi-b61464206/)
 
-
-<h5 align="left">'Se a única ferramenta que você conhece é um martelo, todo problema é visto como um prego.'</h5>
 <h5 align="right">&#127769;</h5>
