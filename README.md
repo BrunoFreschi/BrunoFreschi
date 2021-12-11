@@ -21,4 +21,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...[Twitter](https://twitter.com/Brun0Freschi), [Git](https://github.com/BrunoFreschi), [Linkdin](https://www.linkedin.com/in/bruno-dos-santos-freschi-b61464206/)
 
+
+
+![Snake animation](https://github.com/BrunoFreschi/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 <h5 align="right">&#127769;</h5>
