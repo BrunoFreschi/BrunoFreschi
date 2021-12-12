@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Data Structure, Logic and C#..
 - 🤔 I’m looking for help with ... Contents for study REGEX...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...[Twitter](https://twitter.com/Brun0Freschi), [Git](https://github.com/BrunoFreschi), [Linkdin](https://www.linkedin.com/in/bruno-dos-santos-freschi-b61464206/)
+- 📫 How to reach me: ...[Twitter](https://twitter.com/Brun0Freschi), [Git](https://github.com/BrunoFreschi), [Linkdin](https://www.linkedin.com/in/bruno-dos-santos-freschi-b61464206/), [Reddit](https://www.reddit.com/user/Brun0Freschi)
 
 
 
-![Snake animation](https://github.com/BrunoFreschi/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/BrunoFreschi/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 
