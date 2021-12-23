@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Twitter](https://twitter.com/Brun0Freschi), [Git](https://github.com/BrunoFreschi), [Linkdin](https://www.linkedin.com/in/bruno-dos-santos-freschi-b61464206/), [Reddit](https://www.reddit.com/user/Brun0Freschi)
 
 <h5 align="right">&#127769;</h5>
-
-
-![reddit-avatar](https://user-images.githubusercontent.com/61979097/147173146-f26c1d5d-8c18-408c-81c0-ce659916294a.png)
