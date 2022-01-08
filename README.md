@@ -22,13 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Twitter](https://twitter.com/Brun0Freschi), [Git](https://github.com/BrunoFreschi), [Linkdin](https://www.linkedin.com/in/bruno-dos-santos-freschi-b61464206/), [Reddit](https://www.reddit.com/user/Brun0Freschi)
 
 <h5 align="right">&#127769;</h5>
-
-
-
-<a href="https://t.me/CarlalFranca"rel="nofollow">
-  <img height="23em" src="https://img.shields.io/badge/Telegram-22272e?style=for-the-badge&logo=telegram&logoColor=white%22/%3E"/> <a href="https://t.me/CarlalFranca"rel="nofollow">
-  <img height="23em" src="https://img.shields.io/badge/LinkedIn-22272e?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="mailto:carlalrfranca@protonmail.com"rel="nofollow">
-  <img height="23em" src="https://img.shields.io/badge/ProtonMail-22272e?style=for-the-badge&logo=protonmail&logoColor=white"/> <a href="https://twitter.com/CarlaRFrancaI"><img height="23em" src="https://img.shields.io/badge/Twitter-22272e?style=for-the-badge&logo=Twitter&logoColor=white"/>
-<div>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlarfranca&layout=compact&langs_count=7&border_color=22272e&bg_color=22272e&title_color=8f989f&text_color=8f989f&icon_color=b55c5e"/><img height="130em" src="https://github-readme-stats.vercel.app/api?username=carlarfranca&show_icons=true&border_color=22272e&bg_color=22272e&title_color=8f989f&icon_color=b55c5e&text_color=8f989f&include_all_commits=true count_private=true"/></div></pre>
- <!--
