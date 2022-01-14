@@ -1,15 +1,8 @@
 <!--
-**BrunoFreschi/BrunoFreschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 - 🔭 I’m currently working on ....
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrunoFreschi&title=Commit,Followers,Stars&theme=onedark&row=1&column=3&no-bg=true&margin-w=15&no-frame=true" alt="BrunoFreschi"/></a>
-  <br>
-</p>
 -->
 <h3 align="left">👋 Hello!</h3>
 
