@@ -3,25 +3,19 @@
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... 
-
-<h3 align="left">We are working on it! </h1>
-<h3 align="left">Coming soon</h3>
-
-- 🌱 I’m currently learning ... Data Structure, Logic and C#..
+- 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 -->
+
 <h3 align="left">👋 Hello!</h3>
 
 - 📫 How to reach me: ...[Twitter](https://twitter.com/Brun0Freschi), [Git](https://github.com/BrunoFreschi), [Linkdin](https://www.linkedin.com/in/bruno-dos-santos-freschi-b61464206/), [Reddit](https://www.reddit.com/user/Brun0Freschi)
-
-
 
   <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-
 
 <h5 align="right">&#127769;</h5>
