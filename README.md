@@ -3,7 +3,7 @@
 <h3 align="left">👋 Hello!</h3>
 
 <!-- About -->
-- 📫 How to reach me: ...[Twitter](https://twitter.com/Brun0Freschi), [Git](https://github.com/BrunoFreschi), [Linkdin](https://www.linkedin.com/in/bruno-dos-santos-freschi-b61464206/), [Reddit](https://www.reddit.com/user/Brun0Freschi)
+📫 How to reach me: ...[Twitter](https://twitter.com/Brun0Freschi), [Git](https://github.com/BrunoFreschi), [Linkdin](https://www.linkedin.com/in/bruno-dos-santos-freschi-b61464206/), [Reddit](https://www.reddit.com/user/Brun0Freschi)
 
 ***
 
